@@ -7649,6 +7649,12 @@ e_byzantium = {
 			color2={ 255 255 255 }
 			
 			capital = 340 # Palermo
+
+			andalusian_arabic = "Saqqaliyya"
+			maghreb_arabic = "Saqqaliyya"
+			bedouin_arabic = "Saqqaliyya"
+			egyptian_arabic = "Saqqaliyya"
+			levantine_arabic = "Saqqaliyya"
 			
 			c_palermo = {
 				color={ 155 254 86 }
@@ -7670,12 +7676,22 @@ e_byzantium = {
 					greek = "Panarmos"
 				}
 				b_cefalu = {
+					maghreb_arabic = "Gafludi"
+					levantine_arabic = "Gafludi"
+					egyptian_arabic = "Gafludi"
+					bedouin_arabic = "Gafludi"
+					andalusian_arabic = "Gafludi"
 				}
 				b_monreale = {
 				}
 				b_gratteri = {
 				}
 				b_caltavuturo = {
+					maghreb_arabic = "Qalat Abu-Tawr"
+					levantine_arabic = "Qalat Abu-Tawr"
+					egyptian_arabic = "Qalat Abu-Tawr"
+					bedouin_arabic = "Qalat Abu-Tawr"
+					andalusian_arabic = "Qalat Abu-Tawr"
 				}
 				b_petralia = {
 				}
@@ -7697,6 +7713,11 @@ e_byzantium = {
 				}
 				b_taormina = {
 					greek = "Taourmenion"
+					maghreb_arabic = "Al-Muizziyya"
+					levantine_arabic = "Al-Muizziyya"
+					egyptian_arabic = "Al-Muizziyya"
+					bedouin_arabic = "Al-Muizziyya"
+					andalusian_arabic = "Al-Muizziyya"
 				}
 				b_sanmarcodalunzio = {
 				}
@@ -7725,6 +7746,11 @@ e_byzantium = {
 				b_noto = {
 				}
 				b_caltagirone = {
+					maghreb_arabic = "Qalat Al-Jarar"
+					levantine_arabic = "Qalat Al-Jarar"
+					egyptian_arabic = "Qalat Al-Jarar"
+					bedouin_arabic = "Qalat Al-Jarar"
+					andalusian_arabic = "Qalat Al-Jarar"
 				}
 				b_paterno = {
 				}
@@ -7753,8 +7779,18 @@ e_byzantium = {
 					levantine_arabic = "Kerkent"
 				}
 				b_caltabellotta = {
+					andalusian_arabic = "Qawsirah"
+					maghreb_arabic = "Qawsirah"
+					bedouin_arabic = "Qawsirah"
+					egyptian_arabic = "Qawsirah"
+					levantine_arabic = "Qawsirah"
 				}
 				b_butera = {
+					andalusian_arabic = "Butirah"
+					maghreb_arabic = "Butirah"
+					bedouin_arabic = "Butirah"
+					egyptian_arabic = "Butirah"
+					levantine_arabic = "Butirah"
 				}
 				b_sanbiagioplatani = {
 				}
@@ -7797,6 +7833,11 @@ e_byzantium = {
 				b_santaninfa = {
 				}
 				b_marsala = {
+					andalusian_arabic = "Marsa Ali"
+					maghreb_arabic = "Marsa Ali"
+					bedouin_arabic = "Marsa Ali"
+					egyptian_arabic = "Marsa Ali"
+					levantine_arabic = "Marsa Ali"
 				}
 				b_alcarno = {
 				}
@@ -7808,6 +7849,11 @@ e_byzantium = {
 				b_mdina = {
 					greek = Melitta
 					italian = "Citta Vecchia"
+					andalusian_arabic = "Madinah"
+					maghreb_arabic = "Madinah"
+					bedouin_arabic = "Madinah"
+					egyptian_arabic = "Madinah"
+					levantine_arabic = "Madinah"
 				}
 				b_sliema = {
 				}
@@ -23565,8 +23611,8 @@ e_spain = {
 				color = { 255 200 2 }
 				color2={ 255 255 255 }
 				
-				basque = "Nafarroa"
-				french = "Navarre"
+				basque = "Gipuzkoa"
+				french = "Guipuscoa"
 
 				b_pamplona = {
 					basque = "Iruña"
