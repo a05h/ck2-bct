@@ -6490,12 +6490,29 @@ e_byzantium = {
 			color2={ 255 255 255 }
 			
 			capital = 699 # Edessa
+
+			andalusian_arabic = "Urfah"
+			maghreb_arabic = "Urfah"
+			bedouin_arabic = "Urfah"
+			egyptian_arabic = "Urfah"
+			levantine_arabic = "Urfah"
 			
 			c_edessa = {
 				color={ 175 105 45 }
 				color2={ 255 255 255 }
+
+				andalusian_arabic = "Urfah"
+				maghreb_arabic = "Urfah"
+				bedouin_arabic = "Urfah"
+				egyptian_arabic = "Urfah"
+				levantine_arabic = "Urfah"
 				
 				b_edessa = {
+					andalusian_arabic = "Urfah"
+					maghreb_arabic = "Urfah"
+					bedouin_arabic = "Urfah"
+					egyptian_arabic = "Urfah"
+					levantine_arabic = "Urfah"
 				}
 				b_sruk = {
 				}
